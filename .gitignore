@@ -3,3 +3,11 @@ target/
 dbt_packages/
 logs/
 python_code/
+
+
+# duckdb database
+db
+
+# venvs
+1.5
+1.6
